@@ -11,8 +11,8 @@ This is recommended way to explore and analyze the BOTS dataset.
 
 Download the dataset from this location: [botsv1_data_set.tgz](https://www.splunk.com/files/downloads/botsv1_data_set.tgz) (6.1GB compressed)
 
-The dataset requires the following software which is distributed separately
-and should be installed before using the dataset in Splunk. The versions listed are
+The dataset requires the following software which is distributed and licensed separately
+and should be installed before using the dataset. The versions listed are
 those that were used to create the dataset. Different versions of the software
 may or may not work properly. If you are new to Splunk, follow [these instructions](http://docs.splunk.com/Documentation/Splunk/7.0.0/Installation/Whatsinthismanual) to install the free Splunk Enterprise trial and [these instructions](https://docs.splunk.com/Documentation/AddOns/released/Overview/Singleserverinstall) to install apps and add-ons. 
 
