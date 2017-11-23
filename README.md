@@ -1,15 +1,20 @@
+
+
 # Boss of the SOC (BOTS) Dataset Version 1
 An educational resource for information security professionals, students, and enthusiasts.
 
 ## Retrieving the BOTS v1 Dataset
 The dataset is available in several formats:
 ### Splunk Indexed
-[botsv1_data_set.tgz](https://www.splunk.com/files/downloads/botsv1_data_set.tgz) (6.1GB compressed)
+
+This is recommended way to explore and analyze the BOTS dataset.
+
+Download the dataset from this location: [botsv1_data_set.tgz](https://www.splunk.com/files/downloads/botsv1_data_set.tgz) (6.1GB compressed)
 
 The dataset requires the following software which is distributed separately
-and should be installed before using this dataset. The versions listed are
+and should be installed before using the dataset in Splunk. The versions listed are
 those that were used to create the dataset. Different versions of the software
-may or may not work properly.
+may or may not work properly. If you are new to Splunk, follow [these instructions](http://docs.splunk.com/Documentation/Splunk/7.0.0/Installation/Whatsinthismanual) to install the free Splunk Enterprise trial and [these instructions](https://docs.splunk.com/Documentation/AddOns/released/Overview/Singleserverinstall) to install apps and add-ons. 
 
 | App / Add-on | Version | Download |
 | ----------- | ------- | -------- |
@@ -28,10 +33,14 @@ After installing Splunk, the botsv1_data_set app, and the apps/add-ons listed in
 	index=botsv1 earliest=0
 
 ### JSON - Complete
+Download the JSON-fromatted complete dataset from this location: [botsv1.json.gz](https://s3.amazonaws.com/botsv1/botsv1.json.gz) (11.3GB compressed, ~120GB uncompressed)
+
 
 ### JSON - by Sourcetype
+Coming soon!
 
 ### CSV by Sourcetype
+Coming soon!
 
 ## Authors
 Written in 2016 by Ryan Kovar, David Herrald, and James Brodsky
