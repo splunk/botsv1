@@ -1,5 +1,15 @@
-# Boss of the SOC Dataset Version 1
+# Boss of the SOC (BOTS) Dataset Version 1
 An educational resource for information security professionals, students, and enthusiasts.
+
+#Retrieving the BOTS v1 dataset
+The dataset is available in several formats:
+##Splunk Indexed
+
+##JSON - Complete
+
+##JSON - by Sourcetype
+
+##CSV by Sourcetype
 
 # Authors
 Written in 2016 by Ryan Kovar, David Herrald, and James Brodsky
