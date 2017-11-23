@@ -1,7 +1,7 @@
 
 
 # Boss of the SOC (BOTS) Dataset Version 1
-An educational resource for information security professionals, students, and enthusiasts.
+A sample security dataset for information security professionals, researchers, students, and enthusiasts.
 
 ## Retrieving the BOTS v1 Dataset
 The dataset is available in several formats:
@@ -41,6 +41,33 @@ Coming soon!
 
 ### CSV by Sourcetype
 Coming soon!
+
+## Data Sourcetypes Included
+* WinEventLog:Application
+* WinEventLog:Security
+* WinEventLog:System
+* XmlWinEventLog:Microsoft-Windows-Sysmon/Operational
+* fgt_event
+* fgt_traffic
+* fgt_utm
+* iis
+* nessus:scan
+* stream:dhcp
+* stream:dns
+* stream:http
+* stream:icmp
+* stream:ip
+* stream:ldap
+* stream:mapi
+* stream:sip
+* stream:smb
+* stream:snmp
+* stream:tcp
+* suricata
+* wineventlog:application
+* wineventlog:security
+* wineventlog:system
+* winregistry
 
 ## Authors
 Written in 2016 by Ryan Kovar, David Herrald, and James Brodsky
