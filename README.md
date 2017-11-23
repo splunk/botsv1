@@ -1,7 +1,7 @@
 # Boss of the SOC (BOTS) Dataset Version 1
 An educational resource for information security professionals, students, and enthusiasts.
 
-#Retrieving the BOTS v1 dataset
+# Retrieving the BOTS v1 dataset
 The dataset is available in several formats:
 ## Splunk Indexed
 
