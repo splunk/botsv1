@@ -33,7 +33,7 @@ After installing Splunk, the botsv1_data_set app, and the apps/add-ons listed in
 	index=botsv1 earliest=0
 
 ### JSON - Complete
-Download the JSON-fromatted complete dataset from this location: [botsv1.json.gz](https://s3.amazonaws.com/botsv1/botsv1.json.gz) (11.3GB compressed, ~120GB uncompressed)
+Download the JSON-formatted complete dataset from this location: [botsv1.json.gz](https://s3.amazonaws.com/botsv1/botsv1.json.gz) (11.3GB compressed, ~120GB uncompressed)
 
 
 ### JSON - by Sourcetype
