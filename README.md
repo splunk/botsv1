@@ -64,9 +64,9 @@ Download the JSON-formatted complete dataset from this location: [botsv1.json.gz
 | Splunk Sourcetype | Compressed JSON file |
 | ----------------- | -------------------- |
 | WinEventLog:Application | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.WinEventLog-Application.json.gz |
-| WinEventLog:Security | |
-| WinEventLog:System | |
-| XmlWinEventLog:Microsoft-Windows-Sysmon/Operational | |
+| WinEventLog:Security | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.WinEventLog-Security.json.gz |
+| WinEventLog:System | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.WinEventLog-System.json.gz |
+| XmlWinEventLog:Microsoft-Windows-Sysmon/Operational | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.XmlWinEventLog-Microsoft-Windows-Sysmon-Operational.json.gz |
 | fgt_event | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.fgt_event.json.gz |
 | fgt_traffic | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.fgt_traffic.json.gz |
 | fgt_utm | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.fgt_utm.json.gz |
@@ -84,7 +84,7 @@ Download the JSON-formatted complete dataset from this location: [botsv1.json.gz
 | stream:snmp | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-snmp.json.gz |
 | stream:tcp | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-tcp.json.gz |
 | suricata | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.suricata.json.gz |
-| winregistry | |
+| winregistry | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.winregistry.json.gz |
 
 ### CSV by Sourcetype
 Coming soon!
