@@ -61,7 +61,30 @@ Download the JSON-formatted complete dataset from this location: [botsv1.json.gz
 
 
 ### JSON - by Sourcetype
-Coming soon!
+| Splunk Sourcetype | Compressed JSON file |
+| ----------------- | -------------------- |
+| WinEventLog:Application | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.WinEventLog-Application.json.gz |
+| WinEventLog:Security | |
+| WinEventLog:System | |
+| XmlWinEventLog:Microsoft-Windows-Sysmon/Operational | |
+| fgt_event | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.fgt_event.json.gz |
+| fgt_traffic | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.fgt_traffic.json.gz |
+| fgt_utm | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.fgt_utm.json.gz |
+| iis | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.iis.json.gz |
+| nessus:scan | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.nessus-scan.json.gz |
+| stream:dhcp | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-dhcp.json.gz |
+| stream:dns | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-dns.json.gz |
+| stream:http | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-http.json.gz |
+| stream:icmp | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-icmp.json.gz |
+| stream:ip | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-ip.json.gz |
+| stream:ldap | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-ldap.json.gz |
+| stream:mapi | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-mapi.json.gz |
+| stream:sip | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-sip.json.gz |
+| stream:smb | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-smb.json.gz |
+| stream:snmp | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-snmp.json.gz |
+| stream:tcp | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.stream-tcp.json.gz |
+| suricata | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.suricata.json.gz |
+| winregistry | |
 
 ### CSV by Sourcetype
 Coming soon!
