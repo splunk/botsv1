@@ -64,9 +64,6 @@ Coming soon!
 * stream:snmp
 * stream:tcp
 * suricata
-* wineventlog:application
-* wineventlog:security
-* wineventlog:system
 * winregistry
 
 ## Authors
