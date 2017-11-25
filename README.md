@@ -87,7 +87,30 @@ Download the JSON-formatted complete dataset from this location: [botsv1.json.gz
 | winregistry | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.winregistry.json.gz |
 
 ### CSV by Sourcetype
-Coming soon!
+| Splunk Sourcetype | Compressed CSV file |
+| ----------------- | ------------------- |
+| WinEventLog:Application | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.WinEventLog%3AApplication.csv.gz |
+| WinEventLog:Security | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.WinEventLog%3ASecurity.csv.gz |
+| WinEventLog:System | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.WinEventLog%3ASystem.csv.gz |
+| XmlWinEventLog:Microsoft-Windows-Sysmon/Operational | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.XmlWinEventLog%3AMicrosoft-Windows-Sysmon-Operational.csv.gz |
+| fgt_event | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.fgt_event.csv.gz |
+| fgt_traffic | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.fgt_traffic.csv.gz |
+| fgt_utm | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.fgt_utm.csv.gz |
+| iis | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.iis.csv.gz |
+| nessus:scan | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.nessus%3Ascan.csv.gz |
+| stream:dhcp | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Adhcp.csv.gz |
+| stream:dns | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Adns.csv.gz |
+| stream:http | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Ahttp.csv.gz |
+| stream:icmp | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Aicmp.csv.gz |
+| stream:ip | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Aip.csv.gz |
+| stream:ldap | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Aldap.csv.gz |
+| stream:mapi | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Amapi.csv.gz |
+| stream:sip | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Asip.csv.gz |
+| stream:smb | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Asmb.csv.gz |
+| stream:snmp | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Asnmp.csv.gz |
+| stream:tcp | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.stream%3Atcp.csv.gz |
+| suricata | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.suricata.csv.gz |
+| winregistry | https://s3.amazonaws.com/botsv1/csv-by-sourcetype/botsv1.winregistry.csv.gz |
 
 ## Authors
 Written in 2016 by Ryan Kovar, David Herrald, and James Brodsky
