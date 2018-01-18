@@ -35,6 +35,8 @@ This is recommended way to explore and analyze the BOTS dataset.
 
 Download the dataset from this location: [botsv1_data_set.tgz](https://www.splunk.com/files/downloads/botsv1_data_set.tgz) (6.1GB compressed)
 
+Alternatively, a much smaller version of the dataset that contains only attack data. In other words, just the needles, no haystack. [botsv1-attack-only.tgz](https://s3.amazonaws.com/botsv1/botsv1-attack-only.tgz)
+
 The dataset requires the following software which is distributed and licensed separately
 and should be installed before using the dataset. The versions listed are
 those that were used to create the dataset. Different versions of the software
