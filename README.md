@@ -65,7 +65,7 @@ Download the JSON-formatted complete dataset from this location: [botsv1.json.gz
 ### JSON - by Sourcetype
 | Splunk Sourcetype | Compressed JSON file |
 | ----------------- | -------------------- |
-| WinEventLog:Application | https://s3.amazonaws.com/botsv1/json-by-sourcetype/botsv1.WinEventLog-Application.json.gz |
+| WinEventLog:Application | https://s3.amazonaws.com/botsdataset/botsv1/json-by-sourcetype/botsv1.WinEventLog-Application.json.gz |
 | WinEventLog:Security | https://s3.amazonaws.com/botsdataset/botsv1/json-by-sourcetype/botsv1.WinEventLog-Security.json.gz |
 | WinEventLog:System | https://s3.amazonaws.com/botsdataset/botsv1/json-by-sourcetype/botsv1.WinEventLog-System.json.gz |
 | XmlWinEventLog:Microsoft-Windows-Sysmon/Operational | https://s3.amazonaws.com/botsdataset/botsv1/json-by-sourcetype/botsv1.XmlWinEventLog-Microsoft-Windows-Sysmon-Operational.json.gz |
