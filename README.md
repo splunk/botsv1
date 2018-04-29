@@ -33,9 +33,9 @@ The dataset is available in several formats:
 
 This is recommended way to explore and analyze the BOTS dataset.
 
-Download the dataset from this location: [botsv1_data_set.tgz](https://s3.amazonaws.com/botsv1/splunk-pre-indexed/botsv1_data_set.tgz) (6.1GB compressed)
+Download the dataset from this location: [botsv1_data_set.tgz](https://s3.amazonaws.com/botsdataset/botsv1/splunk-pre-indexed/botsv1_data_set.tgz) (6.1GB compressed)
 
-Alternatively, this collection represents a much smaller version of the original dataset containing only attack data. In other words, "just the needles, no haystack." [botsv1-attack-only.tgz](https://s3.amazonaws.com/botsv1/botsv1-attack-only.tgz)(135MB compressed)
+Alternatively, this collection represents a much smaller version of the original dataset containing only attack data. In other words, "just the needles, no haystack." [botsv1-attack-only.tgz](https://s3.amazonaws.com/botsdataset/botsv1/botsv1-attack-only.tgz)(135MB compressed)
 
 The dataset requires the following software which is distributed and licensed separately
 and should be installed before using the dataset. The versions listed are
@@ -59,7 +59,7 @@ After installing Splunk, the botsv1_data_set app, and the apps/add-ons listed in
 	index=botsv1 earliest=0
 
 ### JSON - Complete
-Download the JSON-formatted complete dataset from this location: [botsv1.json.gz](https://s3.amazonaws.com/botsv1/botsv1.json.gz) (11.3GB compressed, ~120GB uncompressed)
+Download the JSON-formatted complete dataset from this location: [botsv1.json.gz](https://s3.amazonaws.com/botsdataset/botsv1/botsv1.json.gz) (11.3GB compressed, ~120GB uncompressed)
 
 
 ### JSON - by Sourcetype
