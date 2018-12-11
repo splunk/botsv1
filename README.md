@@ -114,6 +114,11 @@ Download the JSON-formatted complete dataset from this location: [botsv1.json.gz
 | suricata | https://s3.amazonaws.com/botsdataset/botsv1/csv-by-sourcetype/botsv1.suricata.csv.gz |
 | winregistry | https://s3.amazonaws.com/botsdataset/botsv1/csv-by-sourcetype/botsv1.winregistry.csv.gz |
 
+## Warning
+**Please be advised that this datasets may contain profanity, slang, vulgar expressions, and/or generally offensive terminology. Please use with discretion.** 
+
+This dataset contains evidence captured during actual computer security incidents, or from realistic lab recreations of security incidents. As such, the dataset **may** contain profanity, slang, vulgar expressions, and/or generally offensive terminology. The authors believe that the educational benefits of preserving the realism of the dataset outweigh the risk of offending some users. If the possibility of encountering this type of offensive material is a concern to you or to any audience with whom you plan to share the dataset, please stop now and do not continue.
+
 ## Authors
 Written in 2016 by Ryan Kovar, David Herrald, and James Brodsky
 
